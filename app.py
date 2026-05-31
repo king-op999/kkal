@@ -46,14 +46,14 @@ def get_uptime():
     minutes, seconds = divmod(remainder, 60)
     return f"{days}d {hours}h {minutes}m {seconds}s"
 
-TOKEN = '8984731289:AAEEa6RBQO1JXEAkEMxxjG4mRKTPaXQg_LA''
+TOKEN = '8984731289:AAE5sjXC_wBvNUH46du-2qL_CSnmtENPpSI'
 OWNER_ID = 6840524720
 ADMIN_ID = 6840524720
 YOUR_USERNAME = '@BRONX_ULTRA'
 UPDATE_CHANNEL = 'https://t.me/bronx_ultra_osint'
 
 A4F_API_URL = "https://api.groq.com/openai/v1/chat/completions"
-A4F_API_KEY = "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"
+A4F_API_KEY = "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"
 A4F_MODEL = "llama3-70b-8192"
 
 BASE_DIR = os.path.abspath(os.path.dirname(__file__))
