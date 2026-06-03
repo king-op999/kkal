@@ -53,7 +53,7 @@ YOUR_USERNAME = '@BRONX_ULTRA'
 UPDATE_CHANNEL = 'https://t.me/bronx_ultra_osint'
 
 A4F_API_URL = "https://api.groq.com/openai/v1/chat/completions"
-A4F_API_KEY = "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"
+A4F_API_KEY = "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"
 A4F_MODEL = "llama3-70b-8192"
 
 BASE_DIR = os.path.abspath(os.path.dirname(__file__))
